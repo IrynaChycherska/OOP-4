@@ -1,0 +1,6 @@
+﻿  Geometric.cpp
+  Source.cpp
+D:\1 курс\ООП\4.1\4.1\Source.cpp(7,13): warning C4129: 'A': unrecognized character escape sequence
+D:\1 курс\ООП\4.1\4.1\Source.cpp(12,13): warning C4129: 'G': unrecognized character escape sequence
+  Generating Code...
+  4.1.vcxproj -> D:\1 курс\ООП\4.1\Debug\4.1.exe

@@ -1,0 +1,5 @@
+﻿  UnitTest4.1.cpp
+     Creating library D:\1 курс\ООП\4.1\x64\Debug\UnitTest4.1.lib and object D:\1 курс\ООП\4.1\x64\Debug\UnitTest4.1.exp
+UnitTest4.1.obj : error LNK2019: unresolved external symbol "public: void __cdecl Abstract::SetA(double)" (?SetA@Abstract@@QEAAXN@Z) referenced in function "public: __cdecl Arithmecic::Arithmecic(double,double,double)" (??0Arithmecic@@QEAA@NNN@Z)
+UnitTest4.1.obj : error LNK2019: unresolved external symbol "public: double __cdecl Abstract::GetA(void)const " (?GetA@Abstract@@QEBANXZ) referenced in function "public: double __cdecl Arithmecic::GetA(void)const " (?GetA@Arithmecic@@QEBANXZ)
+D:\1 курс\ООП\4.1\x64\Debug\UnitTest4.1.dll : fatal error LNK1120: 2 unresolved externals
